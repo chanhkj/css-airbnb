@@ -1,3 +1,167 @@
 h1 {
-  color: salmon;
+  color: black;
+  text-align: center;
+}
+
+h2, p {
+  text-align: center;
+}
+
+.box1 {
+  display: inline-block;
+  margin: 0 auto;
+  height: 50px;
+  width: 100%;
+  position: relative;
+}
+
+.sf1 {
+  position: relative;
+  display: inline-block;
+  height: 10px;
+  width: 50px;
+}
+
+.sf1_text {
+  position: absolute;
+  display: inline-block;
+  font-size: 20px;
+  color: white;
+  top: 150px;
+  left: 150px;
+  right: 15px;
+  width: 100%;
+  margin: 0 auto;
+  width: 300px;
+  height: 50px;
+}
+
+.ny1 {
+  position: relative;
+  display: inline-block;
+  margin: 0 auto;
+  height: 10px;
+  width: 50px;
+}
+
+.ny1_text {
+  position: relative;
+  font-size: 20px;
+  color: white;
+  top: 150px;
+  left: 150px;
+  right: 150px;
+  width: 100%;
+  margin: 0 auto;
+  width: 300px;
+  height: 50px;
+}
+
+.lon1 {
+  position: relative;
+  display: inline;
+  margin: 0 auto;
+  height: 10px;
+  width: 50px;
+}
+
+.lon1_text {
+  position: absolute;
+  font-size: 20px;
+  color: white;
+  top: 150px;
+  left: 150px;
+  right: 150px;
+  width: 100%;
+  margin: 0 auto;
+  width: 300px;
+  height: 50px;
+}
+
+.guide {
+  padding: 5px;
+  text-align: center;
+  border: 1px solid black;
+  margin: 0 auto;
+  width: 160px;
+  height: 20px;
+}
+.box2 {
+  display: inline-block;
+  margin: 0 auto;
+  height: 50px;
+  width: 100%;
+  position: relative;
+}
+
+.nap1 {
+  position: relative;
+  display: inline-block;
+  height: 10px;
+  width: 50px;
+}
+
+.nap1_text {
+  position: absolute;
+  display: inline-block;
+  font-size: 20px;
+  color: white;
+  top: 150px;
+  left: 150px;
+  right: 15px;
+  width: 100%;
+  margin: 0 auto;
+  width: 300px;
+  height: 50px;
+}
+
+.son1 {
+  position: relative;
+  display: inline-block;
+  margin: 0 auto;
+  height: 10px;
+  width: 50px;
+}
+
+.son1_text {
+  position: relative;
+  font-size: 20px;
+  color: white;
+  top: 150px;
+  left: 150px;
+  right: 150px;
+  width: 100%;
+  margin: 0 auto;
+  width: 300px;
+  height: 50px;
+}
+
+.sf2 {
+  position: relative;
+  display: inline;
+  margin: 0 auto;
+  height: 10px;
+  width: 50px;
+}
+
+.sf2_text {
+  position: absolute;
+  font-size: 20px;
+  color: white;
+  top: 150px;
+  left: 150px;
+  right: 150px;
+  width: 100%;
+  margin: 0 auto;
+  width: 300px;
+  height: 50px;
+}
+
+.destinations {
+  padding: 5px;
+  text-align: center;
+  border: 1px solid black;
+  margin: 0 auto;
+  width: 160px;
+  height: 20px;
 }
